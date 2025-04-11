@@ -1,5 +1,5 @@
 {
-  "name": "image_uploader",
+  "name": "image-hosting-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
