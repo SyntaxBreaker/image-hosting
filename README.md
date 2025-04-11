@@ -1,5 +1,5 @@
-# Image-hosting
-> A no-frills image hosting that allows you to share images with other people
+# Image Hosting
+A no-frills image hosting that allows you to share images with other people
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
@@ -14,7 +14,7 @@
 - Styled-components
 
 #### Back-end
-- NodeJS
+- Node.js
 - Express
 - MongoDB
 
