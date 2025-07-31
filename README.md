@@ -36,4 +36,4 @@ A no-frills image hosting that allows you to share images with other people
 
 
 ## Author
-Created by [@SyntaxBreaker](https://github.com/SyntaxBreaker)
+- **[SyntaxBreaker]**: [[GitHub](https://www.github.com/SyntaxBreaker)] [[Website](https://syntaxbreaker.netlify.app)]
